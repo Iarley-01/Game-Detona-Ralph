@@ -70,11 +70,6 @@ function randomSquare() {
   state.values.hitPosition = randomSquare.id;
 }
 
-/*function moveEnemy() {
-  state.values.timerId = setInterval(randomSquare, state.values.gameVelocity);
-}*/
-
-
 function addListenerHitBox() {
   //this function controls if the mouse clicked in a enemy or not
   state.view.squares.forEach((square) => {

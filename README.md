@@ -1,7 +1,7 @@
 # Game Detona Ralph
 Desafio de projeto do bootcamp [Potência Tech iFood](https://www.dio.me/bootcamp/potencia-tech-ifood-desenvolvimento-de-jogos), da Digital Innovation One.
 
-![Detona Ralph Game Screenshot](/src/images/Screenshot_20231124-000344_Acode.jpg)
+![Detona Ralph Game Screenshot](/src/images/screenshot.jpg)
 
 ## Ferramentas Usadas
 • Linguagens
